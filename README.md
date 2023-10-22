@@ -1,5 +1,9 @@
 # GeneratorRental
 
+##   NOTE
+    Please be aware that the frontend of the project was too large to upload.. We have kept the project on Lutho's area and amended his Github Link
+    https://github.com/LuthoNondala/generator-front-end
+
 ## Domain problem: 
     Business Infrastructure: Rental Service
 
